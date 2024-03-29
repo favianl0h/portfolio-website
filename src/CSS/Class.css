@@ -15,3 +15,8 @@
 .dark-background {
     background-color:var(--theme-black);
 }
+
+/* Recurring Elements */
+.navbar-item {
+    margin-right:32px;
+}
