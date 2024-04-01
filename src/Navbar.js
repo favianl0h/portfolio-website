@@ -1,5 +1,5 @@
 import logo from './logo.svg';
-import React, { cloneElement } from 'react';
+import React from 'react';
 import "./CSS/Component.css"
 import "./CSS/Theme.css";
 import "./CSS/Class.css";
